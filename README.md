@@ -1,5 +1,8 @@
 # 介绍
 基于强化学习的蜂鸟采蜜 
+
+效果展示： [https://www.bilibili.com/video/BV198411Q7Mf/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV198411Q7Mf/?spm_id_from=333.999.0.0&vd_source=7edb63ea9bb59761315b8b9f881d685d)
+
 官方教程链接：https://learn.unity.com/project/hummingbirdagent-cs?uv=2019.3&courseId=5e470160edbc2a15578b13d7 
 
 示例场景：Assets/Hummingbird/Scenes/Training.unity 
